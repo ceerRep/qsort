@@ -1,1 +1,1 @@
-# A Sample Quick Sort Program
+# A Quick Sort Program Sample
